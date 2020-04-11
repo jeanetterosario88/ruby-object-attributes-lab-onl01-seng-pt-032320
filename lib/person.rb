@@ -11,7 +11,7 @@ class Person
     @job=jobname
   end
   
-  def breed
+  def job
     @job
   end
   
